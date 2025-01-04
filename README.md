@@ -1,4 +1,4 @@
-<h1 align="center">🚀✨ BoostedPic - Fast Image Optimization Tool for Web and Social Media</h1>
+<h1 align="center">🚀✨ fastimage - Fast Image Optimization Tool for Web and Social Media</h1>
 
 <p align="center">
 📷 Shrink photos instantly without quality loss. Multiple export formats. 🔓 Open source, private. 💻📱 Cross-platform PWA. ⚡ Fast, lightweight image compression app.
